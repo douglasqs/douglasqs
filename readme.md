@@ -17,10 +17,10 @@ I am a developer passionate about solving complex problems and modernizing syste
 ---
 
 ### 📫 Connect with Me
-- **GitHub**: [douglasqs](https://github.com/douglasqs)
 - **LinkedIn**: [douglasqs](https://www.linkedin.com/in/douglasqs/)
 
 ---
 <p align="center">
   <i>"Turning coffee into high-performance code."</i>
 </p>
+
