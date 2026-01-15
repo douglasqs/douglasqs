@@ -1,17 +1,9 @@
-# Olá! Eu sou o [Seu Nome] 👋
+# Hello! I'm Douglas 👋
 
-### 👨‍💻 Desenvolvedor Full Stack | Python | PHP | Visão Computacional
+### 👨‍💻 Full Stack Developer | Python | PHP | AI & Machine Learning
 
-Sou um desenvolvedor apaixonado por resolver problemas complexos e modernizar sistemas. Meu foco principal é o desenvolvimento de soluções robustas em **Python** e **PHP**, com forte experiência em integração de hardware (IoT/Câmeras) e inteligência artificial para visão computacional.
+I am a developer passionate about solving complex problems and modernizing systems. I hold a degree in **Systems Analysis and Development** with a **post-graduate degree in Artificial Intelligence and Machine Learning**. My main focus is building robust solutions in **Python** and **PHP**, with strong experience in hardware integration (IoT/Cameras) and computer vision.
 
----
-
-### 🚀 O que eu faço?
-- **Modernização de Sistemas**: Transição de aplicações legadas PHP para arquiteturas modernas MVC, garantindo segurança e escalabilidade.
-- **Visão Computacional & IA**: Desenvolvimento de servidores de eventos LPR (License Plate Recognition) e ferramentas de aprimoramento facial para segurança.
-- **Automação de Testes**: Implementação de suítes de testes automatizados com Robot Framework para garantir zero regressão.
-
----
 
 ### 🛠 Tech Stack
 
@@ -23,33 +15,21 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos e modernizar si
 
 ---
 
-### 📂 Projetos em Destaque
-
-#### 👁️ Face Enhancer
-Ferramenta de IA focada no aprimoramento de imagens faciais para sistemas de controle de acesso e bancos de dados de reconhecimento facial.
-
-#### 🚗 Dahua LPR Event Server
-Servidor Flask otimizado para receber eventos de câmeras Dahua, processando metadados de veículos e imagens em tempo real com interface dinâmica.
-
-#### 🏗️ PHP MVC Refactor
-Refatoração completa de sistemas legados para uma estrutura MVC limpa, com foco em segurança de dados e modularização de funcionalidades.
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=douglasqs&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasqs&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
 
-### 📫 Como me encontrar
-- **GitHub**: [Link para seu perfil]
-- **LinkedIn**: [Link para seu LinkedIn]
+### 📫 Connect with Me
+- **GitHub**: [douglasqs](https://github.com/douglasqs)
+- **LinkedIn**: [douglasqs](https://www.linkedin.com/in/douglasqs/)
 
 ---
 <p align="center">
-  <i>"Transformando café em código de alto desempenho."</i>
+  <i>"Turning coffee into high-performance code."</i>
 </p>
+
