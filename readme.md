@@ -15,15 +15,6 @@ I am a developer passionate about solving complex problems and modernizing syste
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=douglasqs&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasqs&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - **GitHub**: [douglasqs](https://github.com/douglasqs)
 - **LinkedIn**: [douglasqs](https://www.linkedin.com/in/douglasqs/)
@@ -32,4 +23,5 @@ I am a developer passionate about solving complex problems and modernizing syste
 <p align="center">
   <i>"Turning coffee into high-performance code."</i>
 </p>
+
 
