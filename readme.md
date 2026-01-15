@@ -13,7 +13,6 @@ I am a developer passionate about solving complex problems and modernizing syste
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/robot%20framework-%23000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ---
 
@@ -25,6 +24,7 @@ I am a developer passionate about solving complex problems and modernizing syste
 <p align="center">
   <i>"Turning coffee into high-performance code."</i>
 </p>
+
 
 
 
